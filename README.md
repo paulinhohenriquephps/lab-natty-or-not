@@ -37,6 +37,8 @@ Ao longo dessas etapas, são considerados elementos como combustível, frete, m�
 
 ## 📊 Metodologia
 
+![Banner do Projeto](Gemini_Generated_Image_vkcvhrvkcvhrvkcv.jpg)
+
 O desenvolvimento foi organizado em quatro etapas:
 
 1. **Definição do problema:** compreender como explicar visualmente a formação do preço de um produto ao longo da cadeia logística.
